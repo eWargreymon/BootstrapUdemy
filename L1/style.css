@@ -1,13 +1,4 @@
-.row{
-    margin-top: 10px;
-}
-.box{
+.my_form{
     padding: 15px;
-    background-color: purple;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.height{
-    height: 400px;
+    box-shadow: 2px 2px 8px black;
 }
